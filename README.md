@@ -2,6 +2,11 @@
 
 Minimalistic timer tool inspired by the Pomodoro Technique invented by Francesco Cirillo. This tool's main aim is to help us organize our study schedule and divide sessions into short intervals called pomodoros (tomatoes), traditionally 25 minutes long.
 
+### Installation
+
+1. After cloning the repository install dependencies with the command `npm install` / `yarn install`
+4. Run the app with `npm start` command and Expo Go app
+
 ## Technology Stack
 
 - React: web version's core
